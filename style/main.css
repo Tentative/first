@@ -19,6 +19,8 @@ h2 {
 	border: 2px #FF0000 solid;
 	margin: 0 auto;
 	width: 400px;
+	/*better not to use height property; use padding instead */
+	/*height: 200px;*/
 }
 
 a {
