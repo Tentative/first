@@ -31,3 +31,12 @@ a {
 li {
 	display: inline-block;
 }
+
+.nav {
+	text-transform: uppercase;
+}
+
+/*descendent selector > */
+.nav ul li {
+
+}
